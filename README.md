@@ -10,7 +10,7 @@
  - 🎂 2005 4/30 20y.old
  - 🏡 Fukushima Pref. → Tokyo
  - 🧑‍💻 I changed jobs to become an engineer in January 2026.I'm currently in training and learning Java.I want to acquire new skills, so I'm learning other languages ​​on Udemy and other sites in between training.I registered because I want to participate in communities and the like.
- - 🌱 I’m currently learning about Backend Enginner
+ - 🌱 I’m currently learning about Backend Enginner!!
  - 📫 How to reach me: [X - @HaruStriver30](https://x.com/HaruStriver30) or yangyexintian951@gmail.com
 <br>
 
