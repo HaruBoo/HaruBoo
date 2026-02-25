@@ -9,7 +9,8 @@
 
 - 🧑‍💻 .
 - 🌱 I’m 
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 📫 How to reach me: [Twitter - @username](https://twitter.com/@HaruStriver30
+)
 <br>
 
 
