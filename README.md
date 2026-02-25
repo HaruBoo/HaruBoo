@@ -7,13 +7,12 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆!! </div>
 
-<div align="center"> - 🎂 2005 4/30 20y.old
-                     - 🏡 Fukushima Pref. → Tokyo
-                     - 🧑‍💻 
-                     - 🌱 I’m 
-                     - 📫 How to reach me: [X - @HaruStriver30](https://x.com/HaruStriver30) or yangyexintian951@gmail.com
-</div>
-  <br>
+ - 🎂 2005 4/30 20y.old
+ - 🏡 Fukushima Pref. → Tokyo
+ -  🧑‍💻 
+ - 🌱 I’m 
+ - 📫 How to reach me: [X - @HaruStriver30](https://x.com/HaruStriver30) or yangyexintian951@gmail.com
+<br>
 
 
 <!-- 3. 好きな技術スタックに変更 -->
